@@ -1,6 +1,7 @@
 {
   "name": "frame-tool",
   "version": "1.0.0",
+  "type": "module",
   "description": "An NPM Package allows you to quickly set up new projects using popular frameworks",
   "main": "index.js",
   "scripts": {
